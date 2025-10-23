@@ -32,5 +32,5 @@ I am a Undergraduate Student in the Artificial Intelligence department at Indian
 
 My Research focus on grounding language models through retrieval, attribution, reasoning, while integrating multimedia elements to enrich the learning process. I am particularly interested in AI research that leverages knowledge-infused learning, to construct context that can be used effectively in generation, decision-making, and task-oriented agents for social good applications, improving societal impacts. 
 
-Currently i am working as a Research assistant at [KAI2](https://kai2umbc.github.io/) lab. As my specific research intrests are still shaping up to a solid niche domain, would always open to discuss new exciting ideas to work colleberatively in areas like `NLP`, `LLM`, `VLM`, `ML` broadly AI which helps social good.  
+Currently i am working as a Research assistant at [KAI2](https://kai2umbc.github.io/) lab at UMBC. As my specific research intrests are still shaping up to a solid niche domain, would always open to discuss new exciting ideas to work colleberatively in areas like `NLP`, `LLM`, `VLM`, `ML` broadly AI which helps social good.  
 
